@@ -1,4 +1,4 @@
-<H3>Name: MOHAMED ASIL M P</H3>
+<H3>Name: MOHAMED ASIL M </H3>
 <H3>Register no:212222230080</H3>
 <H3>Date:24-03-24</H3>
 <H3>Experiment No. 2 </H3>
